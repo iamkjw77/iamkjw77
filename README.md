@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi 👋, I'm jiwon</h1>
-<h3>A passionate frontend developer from South Korea</h3>
 
 - 🌱 I’m currently learning **React, TypeScript**
 
