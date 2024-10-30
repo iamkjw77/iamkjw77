@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm jiwon</h1>
 
-  - 🌱 I’m currently learning **React, TypeScript**
-
   - 📫 How to reach me **iamkjw77@gmail.com**
 
 
